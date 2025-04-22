@@ -1,0 +1,9 @@
+[submodule "ORB_SLAM2"]
+	path = ORB_SLAM2
+	url = https://github.com/Mobile-Robotics-W25-Group-12/ORB_SLAM2.git
+[submodule "VPR_FeatureExtraction"]
+	path = VPR_FeatureExtraction
+	url = https://github.com/Mobile-Robotics-W25-Group-12/VPR_FeatureExtraction.git
+[submodule "analysis"]
+	path = analysis
+	url = https://github.com/Mobile-Robotics-W25-Group-12/analysis.git
